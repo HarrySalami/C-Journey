@@ -1,0 +1,16 @@
+
+
+#include <iostream>
+#include <string>
+int main()
+{
+    std::string greeting = "hello"; 
+    std::cout << greeting[0] << std:: endl;
+    std::cout << greeting + "there" << std::endl;
+    std::cout << greeting.length()<< std::endl;
+} 
+ 
+
+ 
+
+ 
